@@ -6,8 +6,8 @@ $navbar-default-color: $light-orange;
 @import "bootstrap";
 
 #logo {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   float: left;
   margin-left: 50px;
   font-size: 2em;
@@ -68,4 +68,12 @@ h2 {
   margin-top: 25px;
   border-top: 1px solid #eaeaea;
   color: #777;
+}
+
+.chef_info {
+  margin-top: 10px;
+}
+
+.gravatar {
+  border-radius: 50px;
 }
